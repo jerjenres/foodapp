@@ -71,7 +71,7 @@
                     android:background="@color/grey"
                     android:padding="12dp"
 
-                    app:srcCompat="@drawable/settings" />
+                    app:srcCompat="@drawable/settings1" />
 
                 <LinearLayout
                     android:layout_width="wrap_content"
@@ -225,7 +225,7 @@
                     android:id="@+id/textView5"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:textColor="@color/red"
+                    android:textColor="@color/green"
                     android:text="VIEW ALL" />
             </LinearLayout>
 
